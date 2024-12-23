@@ -6,7 +6,7 @@ from discord_webhook import DiscordWebhook
 
 url = "https://growtopiagame.com/detail"
 
-webhook_url = "https://discord.com/api/webhooks/1319359991206908038/FnwlJy20c1pNufWP-Wg17yi1lMFfvnGe9i-vbxU2MuCjQHwcMm-an1lkXXEpRXJVGht1"
+webhook_url = "https://discord.com/api/webhooks......."
 webhook_name = "Growtopia Logs"
 avatar_url = "https://cdn.discordapp.com/avatars/1306112669765603432/a_73aea43cb627a5463fb050880244c06f.gif?size=4096&ignore=true"
 
