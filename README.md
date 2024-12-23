@@ -1,4 +1,4 @@
-# 🌐 Growtopia Online Players Tracker
+# 🌐 Growtopia Online Players Webhook
 
 This project is a Python script that monitors the number of online players in Growtopia and sends updates to a Discord channel via a webhook. The script also calculates changes in player count and detects significant drops (ban waves).
 
@@ -40,6 +40,8 @@ This project is a Python script that monitors the number of online players in Gr
     ```bash
     python main.py
     ```
+### Example:
+![png](https://cdn.discordapp.com/attachments/1292881258862477395/1320719131917680681/image.png?ex=676a9f0a&is=67694d8a&hm=8e339274b2d9a9bd07496da52f1275e755addde1ae1d675fe52fb3e0d6df2826&)
 
 ## 💡 Tips
 
