@@ -41,7 +41,7 @@ This project is a Python script that monitors the number of online players in Gr
     python main.py
     ```
 ### Example:
-![png](https://cdn.discordapp.com/attachments/1292881258862477395/1320719131917680681/image.png?ex=676a9f0a&is=67694d8a&hm=8e339274b2d9a9bd07496da52f1275e755addde1ae1d675fe52fb3e0d6df2826&)
+![png](https://cdn.discordapp.com/attachments/1314910846803247217/1325057772492029983/image.png?ex=677a67b7&is=67791637&hm=cfb408a2e1f351ff484aaea075085ad09719c5ff354f36901b01894f494d449c&)
 
 ## 💡 Tips
 
